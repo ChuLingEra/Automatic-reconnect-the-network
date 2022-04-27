@@ -1,6 +1,7 @@
+**English**|[简体中文](README_zh-CN.md)|[繁體中文](README_tw.md)|[日本語](README_ja.md)
 # Automatic-reconnect-the-network
 _This project aims to solve the problem that the network authentication system of colleges and universities is disconnected from time to time,
-leading to students' inability to access the Internet, and proposes some but not all solutions._
+leading to students' inability to access the Internet, and proposes some but not all solutions._  
 
 ## Get started
 
