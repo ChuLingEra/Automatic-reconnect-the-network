@@ -84,7 +84,7 @@ pyinstaller xxx.py
 
 
 
-### Refer to relevant:
+### 参考相关:
 主要引用自插件 [Selenium](https://www.selenium.dev/) 和相关的Python包
 
 ## 希望您能提出宝贵意见
