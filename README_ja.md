@@ -50,3 +50,41 @@ Chromeのインストールディレクトリを見つけるにはいくつか�
         |-- chinese···················国家
             |-- xxxxx·················大学コード
 ```
+### 2.The tutorial
+Source files need to be compiled and packaged yourself
+
+##### 2.1 Packaging plug-in
+```
+pip install pyinstaller
+```
+##### 2.2 Packaging code
+```
+pyinstaller xxx.py
+```
+
+### 3.Usage related
+
+Upon confirmation of you meet phenomenon is indeed a Bug, please submit problem in [Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=bug_report.md&title=), and for as far as possible the problem description is clear,
+Fill in the issue template as provided. Thank you for your cooperation
+
+-If your campus network is interrupted from time to time, Please in [Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=feature_Request.md&title=), submit the request and enter your request in the format.
+You will be contacted by email from a project team member at most two business days.
+
+## Source contribution
+
+### Main contributions:
+<a href="https://github.com/ChuLingEra"><img src="https://avatars.githubusercontent.com/u/104434077?s=400" alt="ChuLingEra" width="100"></a>
+
+### Special contributions:
+
+### Contribution:
+
+## Open source related
+This project is open source using [GPL3.0](https://github.com/ChuLingEra/Automatic-reconnect-the-network/blob/master/LICENSE) protocol
+
+
+
+### Refer to relevant:
+Mainly referenced from the plug-in in [Selenium](https://www.selenium.dev/) And associated Python packages
+
+## I hope you can put forward your valuable suggestions
