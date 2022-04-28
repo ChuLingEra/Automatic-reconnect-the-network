@@ -50,41 +50,38 @@ Chromeのインストールディレクトリを見つけるにはいくつか�
         |-- chinese···················国家
             |-- xxxxx·················大学コード
 ```
-### 2.The tutorial
-Source files need to be compiled and packaged yourself
+### 2. チュートリアル
+ソースファイルは自分でコンパイルしてパッケージ化する必要がある
 
-##### 2.1 Packaging plug-in
+##### 2.1 プラグインのパッケージ化
 ```
 pip install pyinstaller
 ```
-##### 2.2 Packaging code
+##### 2.1 パッケージコード
 ```
 pyinstaller xxx.py
 ```
 
-### 3.Usage related
+### 3. 関連性を使う
 
-Upon confirmation of you meet phenomenon is indeed a Bug, please submit problem in [Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=bug_report.md&title=), and for as far as possible the problem description is clear,
-Fill in the issue template as provided. Thank you for your cooperation
+-あなたが遭遇した現象が確かにバグであることを確認した后、[Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=bug_report.md&title=) に問題を提出してください。そしてこの問題のためにできるだけはっきり説明して、提供されたissueテンプレートに従って記入します。ご協力ありがとうございます。
 
--If your campus network is interrupted from time to time, Please in [Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=feature_Request.md&title=), submit the request and enter your request in the format.
-You will be contacted by email from a project team member at most two business days.
+-キャンパスネットワークが随時中断される場合は、[Issues](https://github.com/ChuLingEra/Automatic-reconnect-the-network/issues/new?assignees=&labels=&template=feature_Request.md&title=) でリクエストを送信し、リクエストをフォーマットで入力します。 プロジェクト チーム メンバーは、最大 2 営業日以内に電子メールで連絡します。
 
-## Source contribution
 
-### Main contributions:
+## 貢献の源泉
+
+### 主な貢献:
 <a href="https://github.com/ChuLingEra"><img src="https://avatars.githubusercontent.com/u/104434077?s=400" alt="ChuLingEra" width="100"></a>
 
-### Special contributions:
+### 特別な貢献
 
-### Contribution:
+### 貢献:
 
-## Open source related
-This project is open source using [GPL3.0](https://github.com/ChuLingEra/Automatic-reconnect-the-network/blob/master/LICENSE) protocol
+## オープンソース関係
+本プロジェクトは、[GPL-3.0](https://github.com/ChuLingEra/Automatic-reconnect-the-network/blob/master/LICENSE)プロトコルを使用したオープンソースプロジェクトである。
 
+### 主な引用:
+[Selenium](https://www.selenium.dev/)のプラグインと関連するPythonパッケージから主に引用
 
-
-### Refer to relevant:
-Mainly referenced from the plug-in in [Selenium](https://www.selenium.dev/) And associated Python packages
-
-## I hope you can put forward your valuable suggestions 
+## 貴いご意見をいただきたいのですが
